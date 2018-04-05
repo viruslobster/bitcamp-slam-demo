@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
-source env/bin/activate
+mydir="$(dirname "$BASH_SOURCE")"
+source "$mydir/env/bin/activate"
+cd "$mydir"
 ./env/bin/jupyter notebook montecarlo_solution.ipynb
