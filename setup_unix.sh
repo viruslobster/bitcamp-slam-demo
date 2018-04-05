@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/usr/bin/env bash
 sudo easy_install pip
 pip install virtualenv
 virtualenv env
