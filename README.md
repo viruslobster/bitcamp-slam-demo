@@ -25,7 +25,7 @@
     - To try and impliment the code yourself
         - Run `run_win.bat`
     - To see the solution
-        - Run `run_solutin_win.sh`
+        - Run `run_solution_win.sh`
 - ### Linux
     - To try and impliment the code yourself
         - Run `run_unix.sh`
